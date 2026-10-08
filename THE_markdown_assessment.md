@@ -23,6 +23,20 @@ every order is added up by our app. we use the `total` variable to keep track of
         consle.log("You get a free cookie);
     } else {
         consle.log("add 💲2 for a free cookie!")
-    }
-    ```
+    }    
+```
+>## What customers are saying
+> "Best chopped cheese in East Harlem, and the **free cookie** deal is *genius*!"
 
+---
+
+## Find Us Online
+Follow our daily location on [Instagram](https://chrome.google.com/webstore?hl=en)
+
+Want to build an app like ours? Start learning here:
+
+- [FreeCodeCamp](https://google.com)
+- [MDN Web Docs](https://classroom.google.com/c/ODc4MzY5MjIzMjQ3/a/ODkwMDIwMjcwMzMw/details)
+
+---
+`git push origin main` - the command we run every time we add a new item to the menu!
