@@ -24,3 +24,5 @@ every order is added up by our app. we use the `total` variable to keep track of
     } else {
         consle.log("add 💲2 for a free cookie!")
     }
+    ```
+
