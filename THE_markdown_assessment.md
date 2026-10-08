@@ -34,7 +34,7 @@ every order is added up by our app. we use the `total` variable to keep track of
 ---
 
 ## Find Us Online
-Follow our daily location on [Instagram](https://chrome.google.com/webstore?hl=en)
+Follow our daily location on [Instagram](https://chrome.google.com/webstore?hl=en), or read our reviews on [Yelp](https://google.com)
 
 Want to build an app like ours? Start learning here:
 
